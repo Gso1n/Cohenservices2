@@ -80,6 +80,7 @@ body {
 }
 .secundario__imagem {
     width: 50%;
+    max-height: 75vw;
 }
 .secundario {
     text-align: center;
