@@ -120,6 +120,7 @@ body {
     list-style: none;
     color: var(--branco-principal);
     margin-bottom: 5rem;
+    max-width: 100%;
 }
 .dispositivos__lista h3:hover {
     color: var(--botao-azul);
