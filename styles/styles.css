@@ -116,11 +116,12 @@ body {
 }
 .dispositivos__lista {
     display: flex;
-    justify-content: baseline;
+    justify-content: center;
     list-style: none;
     color: var(--branco-principal);
     margin-bottom: 5rem;
     max-height: 100%;
+    align-items: end;
 }
 .dispositivos__lista h3:hover {
     color: var(--botao-azul);
