@@ -167,19 +167,19 @@ body {
         margin-bottom: 5%;
     }
     .container__imagem {
-        width: 50vw;
+        width: 75vw;
         margin: 5%;
         max-height: 100%;
     }
     .container__caixa {
-        margin: 2em 2em; 
+        margin: 1em 1em; 
     }
     .secundario {
         margin: 0;
         text-align: center;
     }
     .secundario__imagem {
-        width: 50vw;
+        width: 75vw;
     }
     .dispositivos__lista {
         display: block;
