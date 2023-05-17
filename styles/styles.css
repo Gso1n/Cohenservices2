@@ -163,7 +163,7 @@ body {
     .container {
         display: block;
         text-align: center;
-        background-image: none;
+        /* background-image: co; */
     }
     .container__imagem {
         width: 50vw;
