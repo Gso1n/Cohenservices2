@@ -164,6 +164,7 @@ body {
         display: block;
         text-align: center;
         /* background-image: co; */
+        margin-bottom: 5%;
     }
     .container__imagem {
         width: 50vw;
