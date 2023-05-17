@@ -116,7 +116,7 @@ body {
 }
 .dispositivos__lista {
     display: flex;
-    justify-content: center;
+    justify-content: baseline;
     list-style: none;
     color: var(--branco-principal);
     margin-bottom: 5rem;
