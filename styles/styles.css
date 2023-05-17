@@ -129,6 +129,7 @@ body {
     font-size: 2rem;
     font-weight: 700;
     color: var(--branco-principal);
+    max-width: 100%;
 }
 .rodape {
     text-align: center;
